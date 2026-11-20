@@ -1,8 +1,6 @@
 <div align="center">
-
-  <!-- Анимированный заголовок-печятная машинка -->
-  <a href="https://t.me/lis_7ete">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=9D7CD8&center=true&vCenter=true&random=false&width=550&lines=Привет%2C+я+Lis7ete+%F0%9F%91%8B;Rust+%E2%80%A2+Python+%E2%80%A2+Godot+Dev;GameDev+%26+Low-Level+Stuff;Добро+пожаловать+в+мой+профиль!" alt="Typing SVG" />
+    <a href="https://t.me/lis_7ete">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D7CD8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Lis7ete;Rust+%E2%80%A2+Python+%E2%80%A2+Godot+Dev;GameDev+%26+Low-Level+Stuff;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 
   <p align="center">
