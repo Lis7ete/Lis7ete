@@ -1,13 +1,14 @@
 <div align="center">
-    <a href="https://t.me/lis_7ete">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D7CD8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Lis7ete;Rust+%E2%80%A2+Python+%E2%80%A2+Godot+Dev;GameDev+%26+Low-Level+Stuff;Welcome+to+my+profile!" alt="Typing SVG" />
+
+  <!-- Анимированный заголовок -->
+  <a href="https://t.me/lis_7ete">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D7CD8&center=true&vCenter=true&width=520&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+Lis7ete;Rust+%E2%80%A2+Python+%E2%80%A2+Godot+Dev;GameDev+%26+Low-Level+Stuff;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%21" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <b>Разработчик & Геймдев энтузиаст</b>
   </p>
 
-  <!-- Соцсети и каналы -->
   <p align="center">
     <a href="https://t.me/lis_7ete" target="_blank">
       <img src="https://img.shields.io/badge/Telegram_Канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
@@ -62,27 +63,6 @@ fn main() {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
-</div>
-
----
-
-### 📊 Статистика активности
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lis7ete&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lis7ete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lis7ete&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="GitHub Streak" />
 </div>
 
 ---
